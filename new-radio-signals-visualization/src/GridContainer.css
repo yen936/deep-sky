@@ -1,0 +1,60 @@
+.grid2 {
+    display: grid;
+    grid-template-columns: 85% 15%;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    margin-left: 0;
+    gap: 10px;
+    width: 80%;
+    height: 80vh; /* Adjust this as needed */
+    padding: 10px;
+    box-sizing: border-box;
+  }
+  
+  .chart-container {
+    width: 600px;  /* Set the desired width */
+    height: 300px; /* Set the desired height */
+    margin: auto;  /* Center the chart */
+  }
+
+  .buttons2{
+    display:flexbox;
+    flex-direction: column;
+    padding:20px;
+    float: left;
+  }
+
+    .button-142 {
+        background-image: linear-gradient(#f7f8fa ,#e7e9ec);
+        border-color: #adb1b8 #a2a6ac #8d9096;
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 3px;
+        box-shadow: rgba(255,255,255,.6) 0 1px 0 inset;
+        box-sizing: border-box;
+        color: #0f1111;
+        cursor: pointer;
+        display: inline-block;
+        font-family: "Amazon Ember",Arial,sans-serif;
+        font-size: 14px;
+        height: 40px;
+        font-size: 13px;
+        outline: 0;
+        margin:20px;
+        width:100px;
+        
+    }
+
+    .imagesize {
+        height:70px;
+        width: 100px;
+    }
+.invisible {
+    height:70px;
+    width: 100px;
+    color: transparent;
+    opacity: 0;
+}

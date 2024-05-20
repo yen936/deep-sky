@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chart.js": "^4.4.3",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "chartjs-adapter-moment": "^1.0.1",
+    "date-fns": "^3.6.0",
+    "moment": "^2.30.1"
+  }
+}

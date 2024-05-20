@@ -1,0 +1,140 @@
+Statistics for file: FM.csv
+  Statistics for Frequency:
+    Max: 160000000
+    Min: 70000000
+    Mean: 113408457.93022574
+    Median: 120000000.0
+    Standard Deviation: 30286303.986794945
+    1st Percentile: 70000000.0
+    99th Percentile: 160000000.0
+  Statistics for Signal Strength:
+    Max: 0
+    Min: -100
+    Mean: -49.6899369686309
+    Median: -50.0
+    Standard Deviation: 29.24699138044531
+    1st Percentile: -99.13
+    99th Percentile: 0.0
+  Statistics for Bandwidth:
+    Max: 1000000
+    Min: 10000
+    Mean: 310314.7903840516
+    Median: 200000.0
+    Standard Deviation: 347950.16153186717
+    1st Percentile: 10000.0
+    99th Percentile: 1000000.0
+  Statistics for Temperature:
+    Max: 40
+    Min: 20
+    Mean: 30.027301377895046
+    Median: 30.0
+    Standard Deviation: 6.058632480982385
+    1st Percentile: 20.0
+    99th Percentile: 40.0
+  Statistics for Humidity:
+    Max: 80
+    Min: 20
+    Mean: 50.02022867194371
+    Median: 50.0
+    Standard Deviation: 17.635060995775902
+    1st Percentile: 20.0
+    99th Percentile: 80.0
+  Statistics for Wind Speed:
+    Max: 20
+    Min: 0
+    Mean: 9.99618880093814
+    Median: 10.0
+    Standard Deviation: 6.0205533663506525
+    1st Percentile: 0.0
+    99th Percentile: 20.0
+  Statistics for Precipitation:
+    Max: 49.99988186850929
+    Min: 0.0026222293057265
+    Mean: 24.788216597050507
+    Median: 24.691533774810512
+    Standard Deviation: 14.482772233248703
+    1st Percentile: 0.5140798335627833
+    99th Percentile: 49.50168723918001
+  Statistics for Battery Level:
+    Max: 100.0
+    Min: 100.0
+    Mean: 100.0
+    Median: 100.0
+    Standard Deviation: 0.0
+    1st Percentile: 100.0
+    99th Percentile: 100.0
+  Statistics for CPU Usage:
+    Max: 100.0
+    Min: 0.0
+    Mean: 10.503789211374961
+    Median: 0.0
+    Standard Deviation: 28.45777823272377
+    1st Percentile: 0.0
+    99th Percentile: 100.0
+  Statistics for Memory Usage:
+    Max: 30.6
+    Min: 28.2
+    Mean: 29.403616974494284
+    Median: 29.4
+    Standard Deviation: 0.6786033798689924
+    1st Percentile: 28.3
+    99th Percentile: 30.6
+  Statistics for WiFi Strength:
+    Max: 0
+    Min: -100
+    Mean: -49.76931251832307
+    Median: -50.0
+    Standard Deviation: 29.181009385663536
+    1st Percentile: -100.0
+    99th Percentile: 0.0
+  Statistics for Disk Usage:
+    Max: 18.5
+    Min: 18.5
+    Mean: 18.5
+    Median: 18.5
+    Standard Deviation: 0.0
+    1st Percentile: 18.5
+    99th Percentile: 18.5
+  Statistics for System Load:
+    Max: 4.9560546875
+    Min: 4.30078125
+    Mean: 4.618911013998828
+    Median: 4.61474609375
+    Standard Deviation: 0.14430499522297632
+    1st Percentile: 4.30078125
+    99th Percentile: 4.9560546875
+  Statistics for Latitude:
+    Max: 25.612677
+    Min: 25.612677
+    Mean: 25.612677000000005
+    Median: 25.612677
+    Standard Deviation: 3.552778777219709e-15
+    1st Percentile: 25.612677
+    99th Percentile: 25.612677
+  Statistics for Longitude:
+    Max: 85.158875
+    Min: 85.158875
+    Mean: 85.15887500000001
+    Median: 85.158875
+    Standard Deviation: 1.4211115108878836e-14
+    1st Percentile: 85.158875
+    99th Percentile: 85.158875
+  Statistics for Altitude(m):
+    Max: 59.46
+    Min: 59.46
+    Mean: 59.460000000000015
+    Median: 59.46
+    Standard Deviation: 1.4211115108878836e-14
+    1st Percentile: 59.46
+    99th Percentile: 59.46
+  Statistics for Air Pressure:
+    Max: nan
+    Min: nan
+    Mean: nan
+    Median: nan
+    Standard Deviation: nan
+    1st Percentile: nan
+    99th Percentile: nan
+
+Number of normal entries: 27288
+Number of anomalous entries: 0
