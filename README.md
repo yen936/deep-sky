@@ -10,6 +10,7 @@ The hack was hosted by Florida Tech's Center for Advanced Manufacturing and Inno
 
 ## Video
 
+This is the hardware demo
 
 
 ## Approach
