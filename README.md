@@ -6,7 +6,7 @@ Operation Deep Sky is a lightweight intrusion detection system to protect satell
 
 Operation Deep Sky took First Prize Overall at the 2024 Space Coast Hard Tech Hackathon.
 
-The hack was hosted by Florida Tech's Center for Advanced Manufacturing and Innovative Design. The hackathon challenged students and young engineers to develop solutions for problems related to aerospace, defense, hardware, and manufacturing.
+The hack was hosted by Florida Tech's Center for Advanced Manufacturing and Innovative Design. The hackathon challenged engineers to develop solutions for problems related to aerospace, defense, hardware, and manufacturing.
 
 ## Video
 
