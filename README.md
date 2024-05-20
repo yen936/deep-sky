@@ -4,11 +4,11 @@ Operation Deep Sky is a lightweight intrusion detection system to protect satell
 
 ## Hackathon Success
 
-The Satellite Communication Anomaly Detection System was created as part of the 2024 Space Coast Hard Tech Hackathon, hosted by Florida Tech's Center for Advanced Manufacturing and Innovative Design in Palm Bay. The hackathon challenged students and young engineers to develop solutions for problems related to aerospace, defense, hardware, and manufacturing.
+Operation Deep Sky took First Prize Overall at the 2024 Space Coast Hard Tech Hackathon.
 
-During the intense hackathon weekend, our team tackled a problem centered around securing satellite communications from potential jamming or interference attempts. Our innovative approach, which involved simulating satellite communication scenarios using Arduino boards and deploying an Isolation Forest model for real-time anomaly detection, earned us the first place prize.
+The hack was hosted by Florida Tech's Center for Advanced Manufacturing and Innovative Design. The hackathon challenged students and young engineers to develop solutions for problems related to aerospace, defense, hardware, and manufacturing.
 
-The success of our project at the Space Coast Hard Tech Hackathon not only showcased our technical skills and problem-solving abilities but also highlighted the potential of our solution in addressing critical challenges faced by the aerospace and defense industries.
+## Video
 
 
 
