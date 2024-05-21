@@ -12,6 +12,8 @@ The hack was hosted by Florida Tech's Center for Advanced Manufacturing and Inno
 
 This is the hardware demo
 
+![Video](https://vimeo.com/948517065?share=copy)
+
 
 ## Approach
 
