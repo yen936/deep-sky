@@ -2,7 +2,7 @@
 
 Operation Deep Sky is a lightweight intrusion detection system to protect satellite communications from jamming or spoofing. The system uses machine learning based anomaly detection and is designed to operate on small CPU-only devices such as Raspberry Pi or Arduino Uno--simulating the small compute in space.
 
-## Hackathon Success
+## Hackathon - First Prize
 
 Operation Deep Sky took First Prize Overall at the 2024 Space Coast Hard Tech Hackathon.
 
