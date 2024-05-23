@@ -12,7 +12,7 @@ The hack was hosted by Florida Tech's Center for Advanced Manufacturing and Inno
 
 This is the hardware demo
 
-<iframe src="https://player.vimeo.com/video/948517065?h=55ed628378" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+https://github.com/yen936/deep-sky/assets/13579875/eb795dc1-d8f9-45a4-b1ea-ecb4ddff6c8d
 
 ## Approach
 
@@ -45,7 +45,7 @@ A GUI dashboard was developed using React and Node.js for visualizing the signal
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-repo.git`
+1. Clone the repository: `git clone https://github.com/yen936/deep-sky.git`
 2. Install the required dependencies for the model and GUI components.
 3. Generate simulated data using `data_gen.py`--current params are based on real sat data.
 4. Train the Isolation Forest model on the simulated data.
