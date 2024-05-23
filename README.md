@@ -2,6 +2,15 @@
 
 Operation Deep Sky is a lightweight intrusion detection system to protect satellite communications from jamming or spoofing. The system uses machine learning based anomaly detection and is designed to operate on small CPU-only devices such as Raspberry Pi or Arduino Uno--simulating the small compute in space.
 
+## Abstract 
+
+In this study, we explore the efficacy of utilizing Arduino boards equipped with RF transmitters and receivers to simulate and differentiate between typical and anomalous radio signals, which are indicative of potential issues in satellite communications. Given the constrained computational resources available on satellites, it is critical to employ efficient algorithms that maximize performance with minimal compute overhead. 
+
+Our methodology involved modeling satellite communication signals under normal and anomalous conditions, transmitted via Arduino setups, to create a robust dataset for algorithm training and testing. We evaluated multiple classification algorithms to detect anomalies in these signals. Among the tested algorithms, the Isolation Forest algorithm emerged as the most effective, offering substantial accuracy while consuming minimal computational resources. 
+
+This approach not only demonstrates the feasibility of using Arduino-based setups for preliminary studies in satellite signal integrity but also highlights the potential of Isolation Forest in operational environments where computing power is limited. The implications of this research extend to improving the reliability and security of satellite communications by facilitating early detection and mitigation of signal anomalies.
+
+
 ## Hackathon - First Prize
 
 Operation Deep Sky took First Prize Overall at the 2024 Space Coast Hard Tech Hackathon.
